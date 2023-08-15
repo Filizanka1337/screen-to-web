@@ -1,0 +1,7 @@
+requests
+Flask
+opencv-python
+pyautogui
+numpy
+opencv-python
+netifaces
